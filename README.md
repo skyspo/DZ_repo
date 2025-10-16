@@ -1,2 +1,2 @@
 # DZ_repo
-opisanie dz
+opisanie dz_izmen
